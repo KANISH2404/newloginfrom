@@ -1,0 +1,17 @@
+{
+  "name": "testlogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "rerun": "nodemon main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^3.7.2",
+    "nodemon": "^2.0.22"
+  }
+}
